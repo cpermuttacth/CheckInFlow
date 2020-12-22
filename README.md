@@ -24,7 +24,7 @@
 ![fix view](/Read%20Me%20pics/pic5.jpg)
 ![shared](/Read%20Me%20pics/pic6.JPG)
 ![runonly](/Read%20Me%20pics/pic7.jpg)
-[runonly](/Read%20Me%20pics/pic8.jpg)
+[runonly](/Read%20Me%20pics/pic8.JPG)
 
 # Power BI sample
 - Fix the path to be your SharePoint List
