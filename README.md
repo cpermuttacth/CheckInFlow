@@ -1,7 +1,7 @@
 # CheckInFlow
 
 
-## For LocationActivityFlow.zip file need to create one more action call "create item" at the last of the flow
+## IMPORTANT: For LocationActivityFlow.zip file need to create one more action call "create item" at the last of the flow
  ![upload zip](/Read%20Me%20pics/pic9.jpg)
  
  
