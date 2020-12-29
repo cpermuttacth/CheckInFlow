@@ -1,7 +1,7 @@
 # CheckInFlow
 
 
-## IMPORTANT: For LocationActivityFlow.zip file need to create one more action call "create item" at the last of the flow and point to your SP list
+## IMPORTANT: For LocationActivityFlow.zip file after import, you need to add one more action call "Create Item" at the last of the flow and point to your SP list
  ![upload zip](/Read%20Me%20pics/pic9.jpg)
  
  
